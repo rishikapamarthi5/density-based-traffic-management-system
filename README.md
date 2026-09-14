@@ -95,11 +95,13 @@ Continue monitoring
 9. Continue monitoring the four lanes.
 10. Update the active lane when another lane has a smaller measured distance.
 
-## Source Code
+## Project Files
 
-The Arduino source code is available in the following file:
+### Source Code
 
-`traffic_management.ino`
+The complete Arduino implementation is available here:
+
+[traffic_management.ino](traffic_management.ino)
 
 The source code contains the implementation for:
 
@@ -108,6 +110,17 @@ The source code contains the implementation for:
 - Red, yellow, and green LED control
 - Active-road selection
 
+### Hardware Documentation
+
+The pin assignments and hardware information are available here:
+
+[Pin Configuration](hardware/pin-configuration.md)
+
+### Working Principle
+
+Detailed information about the system operation and traffic-selection logic is available here:
+
+[Working Principle](documentation/working-principle.md)
 ## Project Contribution
 
 This was developed as a group project with friends.
