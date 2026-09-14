@@ -122,6 +122,7 @@ The pin assignments and hardware information are available here:
 Detailed information about the system operation and traffic-selection logic is available here:
 
 [Working Principle](documentation/working-principle.md)
+
 ## Project Contribution
 
 This was developed as a group project with friends.
