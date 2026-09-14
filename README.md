@@ -3,6 +3,7 @@
 An Arduino-based traffic management system that uses ultrasonic sensors to detect the distance of vehicles in four lanes and controls the corresponding traffic signal LEDs based on the detected traffic density.
 
 ![Traffic System Overview](traffic-system-overview.png)
+> **Illustrative Project Visualization:** This image is a conceptual representation created to visually explain the project's hardware setup and working principle. It is provided for documentation purposes and is not a photograph of the actual project prototype.
 
 ## Project Overview
 
